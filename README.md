@@ -1,4 +1,4 @@
 # first-github-project
 this is my first git repository
 <br>
-Author- Faiz alam
+Author-  Md Faiz alam
